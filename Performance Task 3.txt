@@ -1,0 +1,9 @@
+Enter the range of numbers: Enter the number that you want to know. [1]: 1 is a number that is ODD.
+Enter the number that you want to know. [2]: 2 is a number that is EVEN.
+Enter the number that you want to know. [3]: 3 is a number that is ODD.
+Enter the number that you want to know. [4]: 4 is a number that is EVEN.
+Enter the number that you want to know. [5]: 5 is a number that is ODD.
+Enter the number that you want to know. [6]: 6 is a number that is EVEN.
+Enter the number that you want to know. [7]: 7 is a number that is ODD.
+Enter the number that you want to know. [8]: 8 is a number that is EVEN.
+Do you want to try again? [y/n]: 
